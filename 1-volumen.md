@@ -8,7 +8,7 @@ Un volumen es un mecanismo para persistir datos generados y utilizados por conte
 - Rendimiento: Los volúmenes están optimizados para el rendimiento en comparación con el uso de los sistemas de archivos montados del host.
 - Backup y Restauración: Es más fácil hacer copias de seguridad y restaurar datos desde volúmenes.
 
-![Volúmenes](types-of-mounts.png)
+![Volúmenes](/Imagenes/types-of-mounts.png)
 
 - bind mount: Carpeta o archivo del host montado directamente
 - volume: Volumen administrado por Docker
